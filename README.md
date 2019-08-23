@@ -26,7 +26,7 @@ app.listen(3000);
 ```
 IndexRoute.js:
 ```javascript 
-const { ExpressRoute } = require('express-ratelimiter');
+const { ExpressRoute } = require('express.js-ratelimiter');
 
 class IndexRoute extends ExpressRoute
 {
