@@ -1,5 +1,5 @@
 {
-  "name": "express-ratelimiter",
+  "name": "express.js-ratelimiter",
   "version": "1.0.0",
   "description": "A package that enables easy to setup express-request-ratelimiting",
   "main": "index.js",
@@ -16,6 +16,7 @@
   },
   "keywords": [
     "express",
+    "expressjs",
     "ratelimit",
     "rate",
     "spam",
