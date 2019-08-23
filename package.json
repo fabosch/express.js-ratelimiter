@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabosch/express-ratelimiter.git"
+    "url": "git+https://github.com/fabosch/express.js-ratelimiter.git"
   },
   "keywords": [
     "express",
@@ -27,7 +27,7 @@
   "author": "fabosch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fabosch/express-ratelimiter/issues"
+    "url": "https://github.com/fabosch/express.js-ratelimiter/issues"
   },
-  "homepage": "https://github.com/fabosch/express-ratelimiter#readme"
+  "homepage": "https://github.com/fabosch/express.js-ratelimiter#readme"
 }
