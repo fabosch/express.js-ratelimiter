@@ -1,0 +1,32 @@
+{
+  "name": "express-ratelimiter",
+  "version": "1.0.0",
+  "description": "A package that enables easy to setup express-request-ratelimiting",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabosch/express-ratelimiter.git"
+  },
+  "keywords": [
+    "express",
+    "ratelimit",
+    "rate",
+    "spam",
+    "spamprotection",
+    "spamprevention",
+    "ratelimiter"
+  ],
+  "author": "fabosch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabosch/express-ratelimiter/issues"
+  },
+  "homepage": "https://github.com/fabosch/express-ratelimiter#readme"
+}
