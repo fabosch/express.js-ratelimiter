@@ -1,6 +1,6 @@
 {
   "name": "express.js-ratelimiter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package that enables easy to setup express-request-ratelimiting",
   "main": "index.js",
   "directories": {
