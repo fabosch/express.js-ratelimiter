@@ -9,9 +9,9 @@ const indexRoute = new IndexRoute(
         maxPerMinute: 3 // max amount of requests per minute
     });
 
-app.get('/', (req, res) =>
+app.get('/', (req, res, next) =>
 {
-    indexRoute.preHandle(req, res);
+    indexRoute.preHandle(req, res, next);
 });
 
 app.listen(3000);

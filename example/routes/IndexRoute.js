@@ -3,7 +3,7 @@ const { ExpressRoute } = require('../../');
 
 class IndexRoute extends ExpressRoute
 {
-    handle(req, res)
+    handle(req, res, next)
     {
         res.send('Hello World');
     }
